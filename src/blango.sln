@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blango", "blango\blango.csproj", "{D73AB4B2-A6BE-49F7-97B5-E48782FD13FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Woliver13.blango.Core", "Woliver13.blango.Core\Woliver13.blango.Core.csproj", "{EE734DED-B3DA-4993-9E5B-C17AF1F3622F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D73AB4B2-A6BE-49F7-97B5-E48782FD13FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73AB4B2-A6BE-49F7-97B5-E48782FD13FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73AB4B2-A6BE-49F7-97B5-E48782FD13FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73AB4B2-A6BE-49F7-97B5-E48782FD13FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE734DED-B3DA-4993-9E5B-C17AF1F3622F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE734DED-B3DA-4993-9E5B-C17AF1F3622F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE734DED-B3DA-4993-9E5B-C17AF1F3622F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE734DED-B3DA-4993-9E5B-C17AF1F3622F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
