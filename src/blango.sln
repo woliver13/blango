@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blango", "blango\blango.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Woliver13.blango.Core", "Woliver13.blango.Core\Woliver13.blango.Core.csproj", "{EE734DED-B3DA-4993-9E5B-C17AF1F3622F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Woliver13.blango.UnitTests", "Woliver13.blango.UnitTests\Woliver13.blango.UnitTests.csproj", "{ACFC048F-24BA-4540-A140-30888D7A6677}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{EE734DED-B3DA-4993-9E5B-C17AF1F3622F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE734DED-B3DA-4993-9E5B-C17AF1F3622F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE734DED-B3DA-4993-9E5B-C17AF1F3622F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACFC048F-24BA-4540-A140-30888D7A6677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACFC048F-24BA-4540-A140-30888D7A6677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACFC048F-24BA-4540-A140-30888D7A6677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFC048F-24BA-4540-A140-30888D7A6677}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
